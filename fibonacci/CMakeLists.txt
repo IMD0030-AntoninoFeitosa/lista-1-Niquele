@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.0)
 project (FibBelowN VERSION 1.0 LANGUAGES CXX )
 
-#== find package, v3 version
+#== find package, v3 versionh
 # find_package(Catch2 REQUIRED)
 
 set( CMAKE_CXX_STANDARD 17)
