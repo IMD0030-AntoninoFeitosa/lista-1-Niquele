@@ -1,4 +1,6 @@
 #include "function.h"
+#include <iostream>
+#include <vector>
 
 /*! 
  * Finds and returns a pair with the first instance of the smallest element
