@@ -28,5 +28,4 @@ while(condicao){
   contador = contador +1;
 }
   return v;
-  
 }
