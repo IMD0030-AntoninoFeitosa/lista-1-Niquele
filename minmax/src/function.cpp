@@ -17,7 +17,7 @@ std::pair<int,int> min_max ( int V[], size_t n ){
   int j;
   int i = 0;
   for (i = 0; i < n; i++ ) {
-      std::cin>>V[i];
+      std::cin>>V[i]; // a função não deve receber valores
    } 
 
   int menor_valor = V[0];

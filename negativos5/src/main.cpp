@@ -4,7 +4,7 @@ int main() {
   int n1;
   int result = 0;
 
-  for (int i = 0; i < 5; i++){
+  for (int i = 0; i < 5; i++){ // faltou usar a constante
     std::cin >> n1;
     if (n1 < 0){
       result = result + 1;
